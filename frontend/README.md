@@ -16,9 +16,11 @@ Make sure you have the following installed on your machine:
 **Cloning the Repository**
 
 ```bash
-git clone https://github.com/kaustubkarki/forIng.git
+git clone https://github.com/Siddhant52035/MERN-Social-Media-App.git
 cd forIng
 ```
+**Create a .env file**
+Create a .env file and set up MONGODB_URL, JWT_SECRET_KEY, PORT, AUTH_EMAIL, AUTH_PASSWORD and APP_URL.
 
 **Installation**
 
